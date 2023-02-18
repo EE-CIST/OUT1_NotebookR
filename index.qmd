@@ -686,8 +686,8 @@ mamap
 
 [**Document libre** :]{.txt1}
 
-[Code source (GitHub) : <https://github.com/HuguesPecout/DataSHS_2022>]{.txt2}\
-[Slides en ligne via Github : <https://huguespecout.github.io/DataSHS_2022/>]{.txt2}
+[Code source (GitHub) : <https://github.com/EE-CIST/OUT1_NotebookR>]{.txt2}\
+[Slides en ligne via Github : <https://ee-cist.github.io/OUT1_NotebookR/>]{.txt2}
 
 \
 

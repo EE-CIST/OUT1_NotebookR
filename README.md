@@ -1,10 +1,13 @@
 
 
-# Ecrire son code dans un environnement de programmation lettrée
-## Semaine DataSHS, 7 décembre 2022
+# _Literate programming_ & _notebook_ avec R
+## Optimiser le partage et la reproductibilité de son code
 
+#### Ecole d'été du CIST -Mars 2023 - Ouidah, Bénin
 
-&rarr; **Consulter le** [**diaporama**](https://huguespecout.github.io/DataSHS_2022/)   
+Leçon du module d'initiation à R (30min)
+
+&rarr; **Consulter le** [**diaporama**](https://ee-cist.github.io/OUT1_NotebookR/)   
 
 </br>
 
