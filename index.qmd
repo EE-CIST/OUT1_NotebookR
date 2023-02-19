@@ -26,32 +26,50 @@ filters:
   - markdown-examples.lua
 ---
 
-## [XXXX]{.smaller}
+## [Analyse de données en programmation]{.smaller}
 
-::: bigspace
-Ingénieur d'études CNRS en sciences de l'information géographique dans le domaine de la géographie humaine et quantitative (UMR Géographie-Cités).
+:::  moy1
+La pratique d'un langage de programmation (libre et gratuit) pour l'analyse de données offre des perspectives intéressantes :
+:::
+
+
+::: {.nonincremental style="font-size:25px;line-height:25px;"}
+-   **Permet d'étendre ses compétences et de gagner en polyvalence**
+-   [**Permet la réproductibilité de son travail d'analyse**]{.orange}
+-   [**Facilite le partage de son travail d'analyse**]{.orange}
+-   [**Permet de gagner en transparence**]{.orange}
+-   **...**\
 :::
 
 ::: moy1
-Depuis 2016 :
-:::
-
-::: {#list .nonincremental style="font-size:25px;line-height:25px;"}
--   Évite l'utilisation de logiciels « clic-bouton » (QGIS, EXCEL, Philcarto...)
--   [**Analyse de données réalisée exclusivement avec le langage R**]{.orange}
--   Création quasi hebdomadaire de script R.
--   Gain de productivité et de polyvalence important, mais...\
-:::
-
-::: moy1
-**→ Implique de [nouvelles méthodes de travail]{.orange} :**
+**→ Cela [Implique de nouvelles méthodes de travail]{.orange} :**
 :::
 
 ::: {.nonincremental style="font-size:25px;line-height:25px;"}
 -   **Comment rendre mon travail intelligible pour mes collègues (et pour moi) ?**
--   **Comment mettre à disposition du code ?**
 -   **Comment archiver et assurer une certaine reproductibilité de mes scripts ?**
+-   **Comment mettre à disposition du code source (et ses résultats) ?**
 :::
+
+## 
+
+
+\
+\
+
+::: {.nonincremental style="font-size:45px;line-height:35px;"}
+-   **I. Pratique du ** [**_literate programming_**]{.orange}
+
+\
+
+-   **II. Utilisation du format de publication** [**_notebook_**]{.orange}
+
+\
+
+-   **III. Gestion, stockage et partage avec ** [**_Git_**]{.orange}
+:::
+
+
 
 #  {data-background="img/Literate_Programming_book_cover.jpg" data-background-size="25%"}
 
@@ -684,10 +702,10 @@ mamap
 
 \
 
-[**Document libre** :]{.txt1}
+[**Quarto** - Format [*Revealjs presentations*](https://quarto.org/docs/presentations/revealjs/) :]{.txt1}
 
 [Code source (GitHub) : <https://github.com/EE-CIST/OUT1_NotebookR>]{.txt2}\
-[Slides en ligne via Github : <https://ee-cist.github.io/OUT1_NotebookR/>]{.txt2}
+[Document compilé (Github) : <https://ee-cist.github.io/OUT1_NotebookR/>]{.txt2}
 
 \
 
@@ -715,8 +733,8 @@ sessionInfo()
 
 ::: {.nonincremental style="font-size:110%;"}
 -   [Le projet Rzine](https://rzine.gitpages.huma-num.fr/communications/projet_rzine/#/)
--   [Analyse de données avec R](https://huguespecout.github.io/R_presentation_FR/#/)
--   [Introduction à R](https://huguespecout.github.io/Intro_R_Rstudio_FR/#/)
+-   [Présentez vos travaux en Markdown](https://sigr2021.github.io/xaringan/?panelset1=r-code2#1)
+-   [Produire des documents RMarkdown](https://sigr2021.github.io/markdown/#1)
 :::
 
 \
@@ -725,7 +743,7 @@ sessionInfo()
 
 ::: {.nonincremental style="font-size:110%;"}
 -   [Rzine.fr](https://rzine.fr/)
--   [Groupe ElementR](https://elementr.gitpages.huma-num.fr/website/)
+-   [UtilitR](https://www.utilitr.org/)
 -   [Ecole d'été CIST](https://ee2023.netlify.app/)
 :::
 :::
@@ -736,14 +754,14 @@ sessionInfo()
 [Livre - manuel]{.bigquat}
 
 ::: {.nonincremental style="font-size:110%;"}
+-   [Introduction à R et au tidyverse](https://juba.github.io/tidyverse/)
 -   [Géomatique avec R](https://rcarto.github.io/geomatique_avec_r/)
--   [Cartographie avec R](https://rcarto.github.io/cartographie_avec_r/)
--   [Analyse de réseaux (R)](https://huguespecout.github.io/Analyse_r-seaux_GDR_ARSHS/)
+-   [Guide-R](https://larmarange.github.io/guide-R/)
 :::
 
 \
 
-[Collection Rzine]{.bigquat}
+[Publication Rzine]{.bigquat}
 
 ::: {.nonincremental style="font-size:110%;"}
 -   [Analyse territoriale multiscalaire](https://rzine.fr/docs/20211101_ysebaert_grasland_MTA/index.html)
@@ -753,18 +771,7 @@ sessionInfo()
 :::
 
 
-# NoteboOk avec R ? 
+# Atelier partique avec Rmarkdown ?
 
-
-
-## Rmarkwon (knitr)
-
-ecosystéme
-
-
-## Jupyter
-
-
-## Jupyter, Rmarkdown, ... = Quarto !
 
 
